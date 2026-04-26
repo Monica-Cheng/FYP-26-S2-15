@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  /* WiseWorkout brand colors */
+  --color-primary: #6366f1;
+  --color-primary-dark: #4f46e5;
+  --color-brand-bg: #f8f7ff;
+  --color-text-primary: #1e1b4b;
+  --color-text-secondary: #6b7280;
+  --color-accent-teal: #2dd4bf;
+  --color-accent-amber: #f59e0b;
+  --color-success: #10b981;
+
+  /* Typography */
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  background-color: #f8f7ff;
+  color: #1e1b4b;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
