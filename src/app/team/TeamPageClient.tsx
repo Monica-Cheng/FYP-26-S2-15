@@ -27,7 +27,7 @@ const teamMembers = [
   {
     name: "Muhammad Imran bin Nassiruddin",
     role: "Backend Developer",
-    image: "",
+    image: "/images/Imran.png",
     github: "https://github.com/Imran4116",
     linkedin: "https://www.linkedin.com/in/imran-nassiruddin-337b26405/",
     description: "Sets up Firebase, structures Firestore, and handles wearable connection integrations.",
@@ -35,7 +35,7 @@ const teamMembers = [
   {
     name: "Phyu Sin Thant",
     role: "Frontend Developer",
-    image: "/images/phyu.png",
+    image: "/images/phyu.jpg",
     github: "https://github.com/HaTLoE",
     linkedin: "https://www.linkedin.com/in/phyusin-thant-17aab1405/",
     description: "Builds Flutter UI screens and implements navigation flows based on the Figma prototype.",

@@ -15,6 +15,11 @@ export const metadata: Metadata = {
   title: "WiseWorkout — Train smarter. Level up.",
   description:
     "The AI-powered fitness app with personalised workout plans, WiseCoach AI, gamification, and progress analytics.",
+  icons: {
+    icon: "/images/logo-mark.png",
+    shortcut: "/images/logo-mark.png",
+    apple: "/images/logo-mark.png",
+  },
 };
 
 export default function RootLayout({
